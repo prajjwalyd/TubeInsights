@@ -47,4 +47,4 @@ It seems that you have provided a Python code that uses the YouTube Data API to 
 13. Exploratory data analysis (EDA) is conducted using various visualizations, such as histograms, bar plots, word clouds, correlation matrix, pair plot, and boxplot. The EDA explores the distribution of views, likes, and comments, identifies top videos with the most views, likes, and comments, visualizes word clouds for video titles, descriptions, and tags, examines the upload schedule, and analyzes the correlations between view count, like count, and comment count.
 
 ### Skills:
-Python Programming, API Integration, Natural Language Processing (NLP), pandas, matplotlib, seaborn, nltk Data Manipulation, Data Analysis, Data Visualization, 
+Python Programming, API Integration, Natural Language Processing (NLP), Sentiment Analysis, pandas, matplotlib, seaborn, nltk Data Manipulation, Data Analysis, Data Visualization, 
