@@ -6,13 +6,11 @@ The project aims to analyze the performance and trends of a YouTube channel usin
 
 The project begins by retrieving channel statistics, including subscriber count, total views, and number of videos. It then fetches the upload playlist ID, which is used to obtain video IDs associated with the channel. Further, it retrieves detailed information about each video, such as its title, description, tags, publication date, duration, and various engagement metrics.
 
-Once the data is collected, the project engages in data manipulation and analysis. It includes data cleaning steps to handle missing values and convert relevant columns to numeric types. The analysis explores various aspects of the video data, including distributions of views, likes, and comments, as well as identifying the top videos with the most views, likes, and comments.
+Once the data is collected, the project engages in data manipulation and analysis. It includes data-cleaning steps to handle missing values and convert relevant columns to numeric types. The analysis explores various aspects of the video data, including distributions of views, likes, and comments, as well as identifying the top videos with the most views, likes, and comments.
 
 The project also delves into natural language processing techniques, such as generating word clouds to visualize common words in video titles, descriptions, and tags. This provides insights into the content and themes of the videos. Additionally, the project examines the upload schedule by analyzing the publishing day trends, helping understand the channel's consistency.
 
 To gain further insights, the project investigates correlations among video metrics, such as views, likes, and comments, using correlation matrices, pair plots, and box plots. This analysis aids in understanding the relationship between engagement metrics and identifying any patterns or trends.
-
-It seems that you have provided a Python code that uses the YouTube Data API to retrieve data about a YouTube channel and its videos. The code performs various tasks such as fetching channel statistics, retrieving video details, and conducting exploratory data analysis.
 
 ![image](https://github.com/prajjwalyd/TubeInsights/assets/111794524/d3503310-5c88-419c-9090-5dadf8f9bb61)
 
